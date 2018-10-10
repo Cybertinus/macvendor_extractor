@@ -4,6 +4,7 @@
 # CONFIG #
 ##########
 
+# Download from http://standards-oui.ieee.org/oui/oui.txt
 ouilocation="/home/user/oui.txt"
 
 #################
